@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/V2cart/static/css/main.12584d98.css",
+    "main.js": "/V2cart/static/js/main.73c8db69.js",
+    "index.html": "/V2cart/index.html",
+    "main.12584d98.css.map": "/V2cart/static/css/main.12584d98.css.map",
+    "main.73c8db69.js.map": "/V2cart/static/js/main.73c8db69.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12584d98.css",
+    "static/js/main.73c8db69.js"
+  ]
+}
